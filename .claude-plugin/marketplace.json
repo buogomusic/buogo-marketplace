@@ -1,0 +1,19 @@
+{
+  "name": "buogo-marketplace",
+  "owner": {
+    "name": "BUOGO"
+  },
+  "metadata": {
+    "description": "Marketplace pessoal do BUOGO. Plugins de carreira, marca, producao e conteudo tech house.",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "buogo-hub",
+      "source": "buogo-hub",
+      "description": "Hub central de carreira: identidade de marca, ideias de track, workflow de producao no Ableton e estrategia macro de release.",
+      "category": "music"
+    }
+  ]
+}
