@@ -1,9 +1,0 @@
-{
-  "name": "buogo-hub",
-  "version": "0.1.0",
-  "description": "Hub central de carreira do BUOGO: identidade de marca, ideias de track, workflow de producao no Ableton e estrategia macro de release. Complementa o buogo-reel-engine, que cuida da producao de conteudo.",
-  "author": {
-    "name": "BUOGO"
-  },
-  "keywords": ["tech house", "music production", "brand", "ableton", "release strategy", "buogo"]
-}
